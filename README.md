@@ -45,7 +45,7 @@ The web app was deployed on Heroku platform after connecting to this github repo
 
 
 ### 6. Drawbacks and Future Scope
-The data used for training and testing purpose of model was of 2019 only. The model doesn't take into consideration, seasonal effects on flight fare, also some of the flights have been out of business in the current scenario. The app's front end has room for improvement using CSS or other styling techniques. Different algorithms can be used for more accurate results.
+The data used for training and testing purpose of model was of 2019 only. The model doesn't take into consideration, seasonal effects on flight fare, also some of the flights have been out of business in the current scenario such as Jet Airways. The dataset only contained travel details from 5-6 different cities of India. The app's front end has room for improvement using CSS or other styling techniques. Different algorithms can be used for more accurate results.
 
 ### 7. Credits
 I would like to thank [Krish Naik](https://github.com/krishnaik06) for hosting this problem statement on his youtube channel and [Amar Mandal](https://github.com/Mandal-21) whose work was taken as inspiration for succesfull completion of this project.  
