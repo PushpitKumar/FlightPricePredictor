@@ -3,13 +3,12 @@
 ## Table of Contents
 * Overview/Problem Statement
 * Dataset
+* File Structure
 * Major Packages/Libraries Used
 * Installation/Working Environment
 * Building the Web App
+* Model Deployment on Heroku Platform
 * App Implementation
-* Working Environment/Libraries
-* File Structure 
-* Deployment
 * Drawbacks and Future Scope
 * Credits
 
@@ -48,8 +47,8 @@
 
 ### 5. Installation/Working Environment
 Follow the instructions if you want to run the app from your local computer.
-1. The app is written using **Python 3.9.5**. You can download it from [here](https://www.python.org/downloads/).You can also download **Anaconda** which is a distribution of python from [here](https://www.anaconda.com/products/individual). I would recommend downloading anaconda since it is very useful as it comes with a lot of python libraries, Jupyter and Spyder IDE.
-2. Once you are done with the installation, you can clone this repository to your computer and install the required packages and libraries using the following line of code through the command prompt where your local environment is setup.
+* The app is written using **Python 3.9.5**. You can download it from [here](https://www.python.org/downloads/).You can also download **Anaconda** which is a distribution of python from [here](https://www.anaconda.com/products/individual). I would recommend downloading anaconda since it is very useful as it comes with a lot of python libraries, Jupyter and Spyder IDE.
+* Once you are done with the installation, you can clone this repository to your computer and install the required packages and libraries using the following line of code through the command prompt where your local environment is setup.
 ```
 pip install -r requirements.txt
 ```
