@@ -13,7 +13,7 @@
 * Credits
 
 ### 1. Overview/Problem Statement
-* Ever wondered how much a flight would cost you while making travel plans? This ML mode tries to predict the flight fare using regression techniques.
+* Ever wondered how much a flight would cost you while making travel plans? This ML model tries to predict the flight fare using regression techniques.
 * For this problem, Linear Regression, RandomForest and XgBoost algorithms were implemented, RandomForest giving the best results.
 
 ### 2. Dataset
