@@ -24,7 +24,7 @@
 ### 3. File Structure
 ```
 ├── static 
-│   ├── css
+│   ├── flight.jpg
 ├── templates
 │   ├── index.html
 ├── app.py
