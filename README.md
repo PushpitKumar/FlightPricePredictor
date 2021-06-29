@@ -54,8 +54,8 @@ Follow the instructions if you want to run the app from your local computer.
 pip install -r requirements.txt
 ```
 ### 6. Building the Web App
-* The web was developed using flask micro web framework which is written in python suitable for small scale projects such as this one. For more information you can check the offical flask website by clicking [here](https://flask.palletsprojects.com/en/2.0.x/)
-* Basic HTML was needed for designing the webpage and to make sure it was responsive to user inputs. 
+* The web was developed using flask micro web framework which is written in python, suitable for small scale projects such as this one. For more information you can check the offical flask website by clicking [here](https://flask.palletsprojects.com/en/2.0.x/)
+* Basic HTML was needed for designing the web-app and to make sure it was responsive to user inputs. 
 
 ### 7. Model Deployment on Heroku Platoform
 * You will have to create a account in order to deploy the model. Login to your account and go to the deploy section.
@@ -65,7 +65,7 @@ pip install -r requirements.txt
 
 ### 8. App Implementation  
 * Link: [FlightFarePrediction](https://flightpricepredictor99.herokuapp.com/)  
-* The app asks for user to enter their preffered airline, Date of Journey which includes (Departure date and time, Arrival date and time), place they are travellng from, destination and number of stoppages. Based on these input flight fare is predicted.  
+* The app asks for user to enter their preffered airline, Date of Journey which includes (Departure date and time, Arrival date and time), place they are travellng from, destination and number of stoppages. Based on these inputs, flight fare is predicted.  
 
 ![1](https://user-images.githubusercontent.com/83957848/119222295-39977f00-bb11-11eb-88de-5d48ef77a728.JPG)  
 ![2](https://user-images.githubusercontent.com/83957848/119222303-43b97d80-bb11-11eb-87cf-aa0ba72b88c5.JPG)
