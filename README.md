@@ -76,7 +76,7 @@ pip install -r requirements.txt
 * The model doesn't take into consideration the seasonal effects on flight fare. Maybe flights in winter season have a higher fare cost in India.
 * Some of the flights have been out of business in the current scenario such as Jet Airways.
 * The dataset only contained travel details from 5-6 different cities of India. 
-* The app's front end has room for improvement using CSS or other styling techniques. I will be updating the application once I have learnt CSS.
+* The app's front end has room for improvement using CSS or other styling techniques.
 * More algorithms can be used for more accurate results.
 
 ### 10. Credits
