@@ -54,7 +54,7 @@ Follow the instructions if you want to run the app from your local computer.
 pip install -r requirements.txt
 ```
 ### 6. Building the Web App
-* The web was developed using flask micro web framework which is written in python, suitable for small scale projects such as this one. For more information you can check the offical flask website by clicking [here](https://flask.palletsprojects.com/en/2.0.x/)
+* The web-app was developed using flask micro web framework which is written in python, suitable for small scale projects such as this one. For more information you can check the offical flask website by clicking [here](https://flask.palletsprojects.com/en/2.0.x/)
 * Basic HTML was needed for designing the web-app and to make sure it was responsive to user inputs. 
 
 ### 7. Model Deployment on Heroku Platoform
